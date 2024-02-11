@@ -1,6 +1,7 @@
 | Game                      | DLC Fix Status | Source                                                         |  Comment                         |
 | :------------------------ | :------------: | :------------------------------------------------------------  | :------------------------------- |
 | House Flipper             |   Working      | https://x.com/BedroZen/status/1756008427401187427?s=20         |                                  |
+| Prince of Persia The Lost Crown             |   Working      | https://www.reddit.com/r/PS5_Jailbreak/comments/1amp62t/comment/kpv90cs/?utm_source=share&utm_medium=web2x&context=3         |                                  |
 | Resident Evil Village     |   Working      | https://x.com/BedroZen/status/1756008320756814123?s=20         | [Modded Warfare How-To Video](https://www.youtube.com/watch?v=9KKkhwATFe8) |
 |                           |                |                                                                |                                  |
 | CoD Infinite Warfare      |  Not Working   | https://www.reddit.com/r/PS5_Jailbreak/comments/1ao2tr4/comment/kpx0l3y/?utm_source=share&utm_medium=web2x&context=3| The `eboot_patcher.py` can't find the DLCs strings |
